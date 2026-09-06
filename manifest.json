@@ -1,0 +1,10 @@
+{
+  "name": "日本語 五十音學習",
+  "short_name": "五十音",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d94b78",
+  "lang": "zh-Hant",
+  "description": "平假名與片假名、發音、手寫練習與聽音測驗"
+}
